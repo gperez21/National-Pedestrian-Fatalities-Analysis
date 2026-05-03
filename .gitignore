@@ -7,6 +7,8 @@ data/processed/*.png
 data/processed/*.jpg
 data/processed/*.svg
 
+notebooks/*.ipynb
+
 # Parquet / cache files (regenerated on first run)
 data/processed/*.parquet
 

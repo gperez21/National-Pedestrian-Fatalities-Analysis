@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+pyarrow>=12.0
+astral>=3.2
+timezonefinder>=6.2
+pytz>=2023.3
+requests>=2.31
+tqdm>=4.65
+matplotlib>=3.7

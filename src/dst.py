@@ -17,6 +17,7 @@ from datetime import date, timedelta
 _SUNDAY = 6
 
 
+
 def _nth_weekday(year: int, month: int, weekday: int, n: int) -> date:
     """Return the *n*th occurrence of *weekday* in *year*/*month*.
 
